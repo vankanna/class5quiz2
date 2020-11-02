@@ -1,0 +1,49 @@
+div {
+    float: left;
+    padding: 10px;
+}
+
+p, input{
+    height:30px;
+    padding: 0;
+}
+
+a {
+    height: 35px;
+}
+
+#qty-container {
+    width: 100px;
+}
+
+#qty-container input {
+    width: 50px;
+}
+
+#product-container {
+    width: 200px;
+}
+
+#product-container a {
+    display: block;
+}
+
+#price-container {
+    text-align: right;
+    width: 150px;
+}
+
+#total-container {
+    width: 150px;
+    text-align: right;
+
+}
+
+#grand-total-container {
+    clear: both;
+    width:720px;
+}
+
+.bold {
+    font-weight: bold;
+}
